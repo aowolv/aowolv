@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @aowolv. I'm a software/game developer.
-- 👀 I'm interested in developing tools for gamedevs.
-- 🌱 I’m currently learning C# for creating desktop apps.
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me ...
+## (⌐■_■) - Hello! I'm AoWolv <sub>(pronounced: ào-ûlv, or ah-oh-wool-v)</sub>
++ 😁 My friends call me `Ao`, `Wolv`, or `Wolf`.
++ 🌞 I'm a software developer by day, 🌜game developer by night.
++ ✍ My primary programming language is `C++`,
+	+ but i'm also versed in `C#`, `C`, `Typescript`, `React.js`, and `Python`.
++ 🤓 Recently picked up reading books on: ***Business***, ***DevOps***, and ***Graphics Programming***
++ 🛠 I'm very interested in learning *Embedded System Programming*.
++ :trollface: Meme enjoyer
++ 📫 You can reach me, via: [email](mailto:aow.gamedev@gmail.com)
+---
 
-<!---
-aowolv/aowolv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ヾ(⌐■_■)ノ♪ - Looking forward to being apart of the [Github Community](https://github.com/community)
+---
+
+Thanks for stopping by!
+
+<sup>Cheers 😁🥂</sup>
